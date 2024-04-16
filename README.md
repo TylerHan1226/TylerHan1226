@@ -1,5 +1,14 @@
 ### Hi there 👋
+
 ## About Me
+
+
+## Contact
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/TylerHan1226)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=black)](https://www.linkedin.com/in/yucheng-han-2a3684254/)
+![Gmail](https://img.shields.io/badge/tylerhan1226@gmail.com-red?logo=gmail&logoColor=black)
+
+
 
 <!--
 **TylerHan1226/TylerHan1226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
