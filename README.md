@@ -49,15 +49,19 @@ I'm a full stack software developer with an architectural background.
 ![Static Badge](https://img.shields.io/badge/chai-green?logo=chai&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/SQLAlchemy-white?logo=sqlalchemy&logoColor=blue)
 
-# 🔎 Recent Activity
-<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt="">
-<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt="">
-<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.svg" alt="">
-<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.details.svg" alt="">
+## 🚀 Projects
+![](https://riff-harbor.onrender.com)
+![](https://aa-munch.onrender.com)
+![](https://aa-project-meet-up-tyler.onrender.com)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=haolam05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tylerhan1226&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
+# 🔎 Recent Activity
+<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt="">
+<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt="">
+<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.details.svg" alt="">
 
