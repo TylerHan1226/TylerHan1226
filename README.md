@@ -60,7 +60,7 @@ I'm a full stack software developer with an architectural background.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tylerhan1226&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
-# 🔎 Recent Activity
+# 🔎 Insights
 <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt="">
 <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt="">
 <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.details.svg" alt="">
