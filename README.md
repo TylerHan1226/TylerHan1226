@@ -50,9 +50,9 @@ I'm a full stack software developer with an architectural background.
 ![Static Badge](https://img.shields.io/badge/SQLAlchemy-white?logo=sqlalchemy&logoColor=blue)
 
 ## 🚀 Projects
-![](https://riff-harbor.onrender.com/)
-![](https://aa-munch.onrender.com/)
-![](https://aa-project-meet-up-tyler.onrender.com/)
+- ![](https://riff-harbor.onrender.com/)
+- ![](https://aa-munch.onrender.com/)
+- ![](https://aa-project-meet-up-tyler.onrender.com/)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=haolam05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
