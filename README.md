@@ -56,8 +56,17 @@ I'm a full stack software developer with an architectural background.
 # Recent Activity
 <div>
 <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt=""></img>
-  <div/>
-<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img></details>
-<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.svg" alt=""></img></details>
+<div/>
+<div>
+<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img>
+<div/>
+<div>
+<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.svg" alt=""></img>
+<div/>
+<div>
 <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.details.svg" alt=""></img>
+<div/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=haolam05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
