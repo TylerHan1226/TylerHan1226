@@ -1,4 +1,5 @@
 
+![github-header-image](https://github.com/tylerhan1226)
 
 # 👨‍🚀 About Me
 
@@ -51,7 +52,7 @@ I'm a full stack software developer with an architectural background.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=haolam05&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
-# Recent Activity
+# 🔎 Recent Activity
 <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt="">
 <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt="">
 <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.svg" alt="">
