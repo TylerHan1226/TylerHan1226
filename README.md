@@ -52,19 +52,19 @@ I'm a full stack software developer with an architectural background.
 ![](https://github-readme-stats.vercel.app/api?username=haolam05&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 # Recent Activity
-<div style="border: 1px solid #ddd; border-radius: 5px; padding: 10px;">
+<div style="border: 1px solid white; border-radius: 5px; padding: 10px;">
     <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt="">
 </div>
 
-<div style="border: 1px solid #ddd; border-radius: 5px; padding: 10px;">
+<div style="border: 1px solid white; border-radius: 5px; padding: 10px;">
     <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt="">
 </div>
 
-<div style="border: 1px solid #ddd; border-radius: 5px; padding: 10px;">
+<div style="border: 1px solid white; border-radius: 5px; padding: 10px;">
     <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.svg" alt="">
 </div>
 
-<div style="border: 1px solid #ddd; border-radius: 5px; padding: 10px;">
+<div style="border: 1px solid white; border-radius: 5px; padding: 10px;">
     <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.details.svg" alt="">
 </div>
 
