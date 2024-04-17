@@ -51,7 +51,12 @@ I'm a full stack software developer with an architectural background.
 
 ## 🚀 Projects
 - [Riff Harbor](https://riff-harbor.onrender.com/)
+  - Constructed a RESTful API with Flask, and designed an efficient and clear data schema, optimizing both backend and frontend operation.
+  - Enhanced user experience (UX) through the implementation of intuitive user interface (UI) designing utilizing React and bundled with Vite, thereby ensuring efficient development cycles and production builds.
+  - Integrated AWS S3 service into the project infrastructure to enhance flexibility, security and reliability.
 - [Munch!](https://aa-munch.onrender.com/)
+  - Collaboratively developed full stack websites with Flask and React. Utilized FlaskWTF, which provides build-in protection against CSRF attacks to bolster security of the application.
+  - Incorporated secure user authentication with JSON Web Tokens (JWT).
 - [Meet up](https://aa-project-meet-up-tyler.onrender.com/)
 
 ## 🏆 GitHub Trophies
