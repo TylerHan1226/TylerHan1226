@@ -54,8 +54,9 @@ I'm a full stack software developer with an architectural background.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerhan1226&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 # Recent Activity
-
+<div>
 <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt=""></img>
+  <div/>
 <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img></details>
 <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.svg" alt=""></img></details>
 <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.details.svg" alt=""></img>
