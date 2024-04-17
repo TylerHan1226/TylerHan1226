@@ -48,6 +48,11 @@ I'm a full stack software developer with an architectural background.
 ![Static Badge](https://img.shields.io/badge/chai-green?logo=chai&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/SQLAlchemy-white?logo=sqlalchemy&logoColor=blue)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tylerhan1226&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tylerhan1226&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerhan1226&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 # Recent Activity
 
 <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt=""></img>
