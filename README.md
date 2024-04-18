@@ -1,10 +1,13 @@
 
-![github-header-image](https://github.com/tylerhan1226)
-
 # 👨‍🚀 About Me
 
-I'm a full stack software developer with an architectural background.
-(needs to update) 
+<p>Hi, my name is Tyler. I grew up in Shanghai, China and my family relocated to the U.S. while I was studying architecture in Syracuse University. I graduated with a Bachelor’s in Architecture. I worked for two years after graduation. My most recent role finds me at Studio AR&D Architects in LA, which specializes in designing high-end modern custom homes in Palm Springs. Despite my love for architecture, I discovered a new passion for program development, which I believe holds exciting opportunities for my future career path.</p>
+
+<p>When still in college, I was captivated by the  projects graduate students did involving machine learning, artificial intelligence and digital modular design. I found it very intriguing and I believe it will be the future. After spending some time exploring the architecture field after graduation, I realized that program development can provide a much greater platform for me to achieve my ambition not only in design but also in creating useful tools for people. After thoughtful consideration and seeking advice from families, friends, and mentors, including my uncle who previously worked as a lighting director in DreamWorks, I made my decision to change my career path. I enrolled in a rigorous program in App Academy, to learn how to be a full stack program developer through expert instruction and guidance. It equipped me with not only the necessary skills such as JavaScript, Python, React, Sequelize, but also some soft skills including problem solving, communication and adaptability.</p>
+
+<p>In my personal time, I enjoy playing guitar. I used to listen to a lot of metal music, but now I’m into all sorts of genres. I’ve been doing some recording and music production when I was in college. I’m also big into bodybuilding, especially calisthenics. After a long day, I make sure to spend at least an hour working out to keep myself in shape.</p>
+
+<p>Transitioning my career into programming, I’m looking for fresh challenges, opportunities for personal development and a dynamic environment where I can continue to learn and evolve. I believe I can bring a diverse set of skills and perspectives to the company with my previous experience and my education background.</p>
 
 # 📲 Contact
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/TylerHan1226)
