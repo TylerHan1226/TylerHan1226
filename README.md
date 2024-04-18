@@ -58,7 +58,7 @@
 - [Meet up](https://aa-project-meet-up-tyler.onrender.com/)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=haolam05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=tylerhan1226&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tylerhan1226&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
