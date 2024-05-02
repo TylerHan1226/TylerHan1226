@@ -55,7 +55,6 @@
 - [Munch!](https://aa-munch.onrender.com/)
   - Collaboratively developed full stack websites with Flask and React. Utilized FlaskWTF, which provides build-in protection against CSRF attacks to bolster security of the application.
   - Incorporated secure user authentication with JSON Web Tokens (JWT).
-- [Meet up](https://aa-project-meet-up-tyler.onrender.com/)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tylerhan1226&theme=radical&no-frame=false&no-bg=true&margin-w=4)
