@@ -7,7 +7,7 @@
 
 <p>I’m now focused on deepening my technical expertise through graduate study and hands-on projects, and I’m actively seeking opportunities where I can continue to grow as a software engineer. With a background in design and a strong technical mindset, I bring a unique, interdisciplinary perspective to building thoughtful, well-crafted software solutions.</p>
 
-<p>In my personal time, I enjoy playing guitar. I used to listen to a lot of metal music, but now I’m into all sorts of genres. I’ve been doing some recording and music production when I was in college. I’m also big into bodybuilding, especially calisthenics. After a long day, I make sure to spend at least an hour working out to keep myself in shape.</p>
+<p>In my personal time, I enjoy playing guitar. I used to listen to a lot of metal music, but now I’m into all sorts of genres. I’ve been doing some recording and music production when I was in college. I’m also big into calisthenics. After a long day, I make sure to spend at least an hour working out to keep myself in shape.</p>
 
 # 📲 Contact
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/TylerHan1226)
